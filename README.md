@@ -4,7 +4,7 @@
 
 Phone Tracker – Live Tracking of Phones WorldWide- Live Tracking of Your Lost/stolen Phones [Real-Time Live GPS Tracking] – Real GPS Live Location Tracking of Phones WorldWide . Full System is Made with Realtime Live GPS
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenna-hacker&label=Profile%20views&color=0e75b6&style=flat" alt="zenna-hacker" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenna-hacker&label=views&color=0e75b6&style=flat" alt="zenna-hacker" /> </p>
 
 # Download
 |[Download](https://telegram.me/+d7B9nU-M9KJiNzIx)
